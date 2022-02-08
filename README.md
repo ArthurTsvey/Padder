@@ -1,3 +1,5 @@
+THIS PROJECT IS NO LONGER BEING UPDATED, PLEASE WAIT FOR THE FINAL REALSE.
+
 # Padder
 This is padder, the next generation of notepads. PRE BETA EXRERMLY GLITCHY/BUGS
 ye sup
